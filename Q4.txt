@@ -1,0 +1,21 @@
+Top 10 users 
+Username: McCoy_Vintage & Number of Retweets: [('McCoy_Vintage', 35649), ('Shirley82556494', 9266), ('Salampard_X', 1051), ('EmeraldLodgen', 1051), ('MadEyeMoody__', 1051), ('tanyajate', 1051), ('Tamera_Neely', 1051), ('JustinMcadoo', 1051), ('beccakelly95', 1051), ('Reem_ELkhatib', 375)]
+
+Username: Shirley82556494 & Number of Retweets: [('McCoy_Vintage', 35649), ('Shirley82556494', 9266), ('Salampard_X', 1051), ('EmeraldLodgen', 1051), ('MadEyeMoody__', 1051), ('tanyajate', 1051), ('Tamera_Neely', 1051), ('JustinMcadoo', 1051), ('beccakelly95', 1051), ('Reem_ELkhatib', 375)]
+
+Username: Salampard_X & Number of Retweets: [('McCoy_Vintage', 35649), ('Shirley82556494', 9266), ('Salampard_X', 1051), ('EmeraldLodgen', 1051), ('MadEyeMoody__', 1051), ('tanyajate', 1051), ('Tamera_Neely', 1051), ('JustinMcadoo', 1051), ('beccakelly95', 1051), ('Reem_ELkhatib', 375)]
+
+Username: EmeraldLodgen & Number of Retweets: [('McCoy_Vintage', 35649), ('Shirley82556494', 9266), ('Salampard_X', 1051), ('EmeraldLodgen', 1051), ('MadEyeMoody__', 1051), ('tanyajate', 1051), ('Tamera_Neely', 1051), ('JustinMcadoo', 1051), ('beccakelly95', 1051), ('Reem_ELkhatib', 375)]
+
+Username: MadEyeMoody__ & Number of Retweets: [('McCoy_Vintage', 35649), ('Shirley82556494', 9266), ('Salampard_X', 1051), ('EmeraldLodgen', 1051), ('MadEyeMoody__', 1051), ('tanyajate', 1051), ('Tamera_Neely', 1051), ('JustinMcadoo', 1051), ('beccakelly95', 1051), ('Reem_ELkhatib', 375)]
+
+Username: tanyajate & Number of Retweets: [('McCoy_Vintage', 35649), ('Shirley82556494', 9266), ('Salampard_X', 1051), ('EmeraldLodgen', 1051), ('MadEyeMoody__', 1051), ('tanyajate', 1051), ('Tamera_Neely', 1051), ('JustinMcadoo', 1051), ('beccakelly95', 1051), ('Reem_ELkhatib', 375)]
+
+Username: Tamera_Neely & Number of Retweets: [('McCoy_Vintage', 35649), ('Shirley82556494', 9266), ('Salampard_X', 1051), ('EmeraldLodgen', 1051), ('MadEyeMoody__', 1051), ('tanyajate', 1051), ('Tamera_Neely', 1051), ('JustinMcadoo', 1051), ('beccakelly95', 1051), ('Reem_ELkhatib', 375)]
+
+Username: JustinMcadoo & Number of Retweets: [('McCoy_Vintage', 35649), ('Shirley82556494', 9266), ('Salampard_X', 1051), ('EmeraldLodgen', 1051), ('MadEyeMoody__', 1051), ('tanyajate', 1051), ('Tamera_Neely', 1051), ('JustinMcadoo', 1051), ('beccakelly95', 1051), ('Reem_ELkhatib', 375)]
+
+Username: beccakelly95 & Number of Retweets: [('McCoy_Vintage', 35649), ('Shirley82556494', 9266), ('Salampard_X', 1051), ('EmeraldLodgen', 1051), ('MadEyeMoody__', 1051), ('tanyajate', 1051), ('Tamera_Neely', 1051), ('JustinMcadoo', 1051), ('beccakelly95', 1051), ('Reem_ELkhatib', 375)]
+
+Username: Reem_ELkhatib & Number of Retweets: [('McCoy_Vintage', 35649), ('Shirley82556494', 9266), ('Salampard_X', 1051), ('EmeraldLodgen', 1051), ('MadEyeMoody__', 1051), ('tanyajate', 1051), ('Tamera_Neely', 1051), ('JustinMcadoo', 1051), ('beccakelly95', 1051), ('Reem_ELkhatib', 375)]
+
